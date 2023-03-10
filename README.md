@@ -1,9 +1,8 @@
 # GraphQL Introduction Examples
 
-To be able to use this project you need to add VITE_GITHUB_TOKEN env to your .env file
+To be able to use this project you need to add VITE_GITHUB_TOKEN variable to your .env file
 
-You can create a token for free here:
-https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+You can create a token for free [here](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 ### Run the project
 
